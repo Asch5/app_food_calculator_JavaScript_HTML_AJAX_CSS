@@ -1,0 +1,14 @@
+The key technical details are:
+
+- HTML and CSS are used to create the content, structure and styling of the pages. CSS animations and responsiveness provide an enhanced user experience.
+- JavaScript powers the dynamic functionality like tabs, modals, sliders, form validation etc. Modular architecture separates concerns into discrete modules.
+- External APIs are leveraged to fetch and render menu data on the page. Axios is used for API requests.
+- Webpack bundles the JS modules and assets into optimized static files. Babel transpiles ES6+ code to browser-compatible JS.
+- PHP provides a back-end for form submission handling. The front-end sends AJAX requests to PHP endpoints.
+- Local Storage caches data like cart information to persist across sessions.
+- The site is responsive across devices using flexbox, media queries and a mobile-first approach.
+- Animation effects and smooth scrolling aim to delight users.
+- 
+This implementation showcases core front-end skills - creating reactive UIs, consuming remote data, modular JavaScript, CSS animations, responsive design etc. The workflow integrates modern tools like NPM, Webpack and Babel into the development process.
+
+The result is a performant and scalable front-end architecture using industry standard technologies. 
