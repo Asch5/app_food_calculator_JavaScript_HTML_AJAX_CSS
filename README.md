@@ -8,7 +8,7 @@ The key technical details are:
 - Local Storage caches data like cart information to persist across sessions.
 - The site is responsive across devices using flexbox, media queries and a mobile-first approach.
 - Animation effects and smooth scrolling aim to delight users.
-- 
+
 This implementation showcases core front-end skills - creating reactive UIs, consuming remote data, modular JavaScript, CSS animations, responsive design etc. The workflow integrates modern tools like NPM, Webpack and Babel into the development process.
 
 The result is a performant and scalable front-end architecture using industry standard technologies. 
